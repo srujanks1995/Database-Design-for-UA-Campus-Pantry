@@ -4,7 +4,7 @@ Language: PL/SQL, ASP.Net, HTML, CSS, Javascript, D3.js
 Database: Oracle database
 Cloud tools: Microsoft Azure 
 
-#Requirements Analysis
+#Requirements Analysis 
 
 
 ![](slides/Slide4.JPG)
